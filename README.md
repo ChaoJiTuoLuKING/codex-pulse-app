@@ -6,11 +6,11 @@
 
 ## 下载
 
-### [📦 下载「安装包＋安装手册」ZIP](https://github.com/ChaoJiTuoLuKING/codex-pulse-download/releases/latest/download/Codex-Pulse-Mac.zip)
+### [📦 下载「安装包＋安装手册」ZIP](https://github.com/ChaoJiTuoLuKING/codex-pulse-app/releases/latest/download/Codex-Pulse-Mac.zip)
 
 解压后，按文件夹内的《安装手册》安装即可。
 
-[只下载安装包](https://github.com/ChaoJiTuoLuKING/codex-pulse-download/releases/latest/download/Codex-Pulse-Mac.dmg) · [在线阅读安装手册](安装手册.md) · [查看版本更新](https://github.com/ChaoJiTuoLuKING/codex-pulse-download/releases/latest)
+[只下载安装包](https://github.com/ChaoJiTuoLuKING/codex-pulse-app/releases/latest/download/Codex-Pulse-Mac.dmg) · [在线阅读安装手册](安装手册.md) · [查看版本更新](https://github.com/ChaoJiTuoLuKING/codex-pulse-app/releases/latest)
 
 > 请使用上面的下载按钮获取安装包。
 
