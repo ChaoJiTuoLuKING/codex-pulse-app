@@ -50,4 +50,4 @@
 
 需要 Windows 或 Intel Mac 版本，欢迎在视频评论区注明对应平台；后续根据实际需求安排，暂未确定上线时间。
 
-感谢卡兹克分享的 AIHOT 重置监控。Codex Pulse 提供 Mac 菜单栏查看、桌面提醒和重置日历等功能。
+<sub>特别感谢 <strong>数字生命卡兹克</strong> 分享的 AIHOT 重置监控。</sub>
