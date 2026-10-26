@@ -2,8 +2,6 @@
 
 **在 Mac 顶部查看 Codex 额度，有明确重置预告时收到桌面提醒。**
 
-由 **超级驼鹿** 制作与分享。
-
 ## 下载
 
 ### [📦 下载「安装包＋安装手册」ZIP](https://github.com/ChaoJiTuoLuKING/codex-pulse-app/releases/latest/download/Codex-Pulse-Mac.zip)
@@ -46,8 +44,8 @@
 
 ## 反馈与后续适配
 
-安装遇到问题，可以联系分享者 **超级驼鹿**，说明电脑芯片、系统版本，并提供提示截图。请先遮住账号和私人信息。
+安装遇到问题，可以联系作者，说明电脑芯片、系统版本，并提供提示截图。请先遮住账号和私人信息。
 
 需要 Windows 或 Intel Mac 版本，欢迎在视频评论区注明对应平台；后续根据实际需求安排，暂未确定上线时间。
 
-<sub>特别感谢 <strong>数字生命卡兹克</strong> 分享的 AIHOT 重置监控。</sub>
+<sub>感谢卡兹克分享的 AIHOT</sub>
