@@ -47,4 +47,3 @@
 安装遇到问题，可以联系作者，说明电脑芯片、系统版本，并提供提示截图。请先遮住账号和私人信息。
 
 Windows 用户可前往 [Windows 内测版](https://github.com/ChaoJiTuoLuKING/codex-pulse-windows-app) 下载。Intel Mac 暂未支持。
-
