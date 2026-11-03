@@ -10,7 +10,7 @@
 
 [只下载安装包](https://github.com/ChaoJiTuoLuKING/codex-pulse-app/releases/latest/download/Codex-Pulse-Mac.dmg) · [在线阅读安装手册](安装手册.md) · [查看版本更新](https://github.com/ChaoJiTuoLuKING/codex-pulse-app/releases/latest)
 
-> 当前版本：v1.2.2。请使用上面的下载按钮获取安装包。
+> 当前版本：v1.2.3。新增日历展开与收起过渡动画，支持连续点击反向切换和系统“减少动态效果”设置。
 
 ## 支持哪些电脑？
 
@@ -20,7 +20,7 @@
 | 系统版本 | macOS 13 及以上 |
 | Mac 笔记本、台式机 | 符合上述条件即可 |
 | Intel Mac | 暂不支持 |
-| Windows | 暂不支持 |
+| Windows | [Windows 11 x64 内测版](https://github.com/ChaoJiTuoLuKING/codex-pulse-windows-app) |
 
 不确定电脑型号？点击屏幕左上角苹果标志 →「关于本机」。
 
@@ -46,5 +46,5 @@
 
 安装遇到问题，可以联系作者，说明电脑芯片、系统版本，并提供提示截图。请先遮住账号和私人信息。
 
-需要 Windows 或 Intel Mac 版本，欢迎在视频评论区注明对应平台；后续根据实际需求安排，暂未确定上线时间。
+Windows 用户可前往 [Windows 内测版](https://github.com/ChaoJiTuoLuKING/codex-pulse-windows-app) 下载。Intel Mac 暂未支持。
 
