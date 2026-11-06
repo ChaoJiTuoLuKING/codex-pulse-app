@@ -20,7 +20,7 @@
 | 系统版本 | macOS 13 及以上 |
 | Mac 笔记本、台式机 | 符合上述条件即可 |
 | Intel Mac | 暂不支持 |
-| Windows | [Windows 11 x64 内测版](https://github.com/ChaoJiTuoLuKING/codex-pulse-windows-app) |
+| Windows | [Windows 11 x64 版](https://github.com/ChaoJiTuoLuKING/codex-pulse-windows-app) |
 
 不确定电脑型号？点击屏幕左上角苹果标志 →「关于本机」。
 
@@ -48,4 +48,4 @@
 
 安装遇到问题，可以联系作者，说明电脑芯片、系统版本，并提供提示截图。请先遮住账号和私人信息。
 
-Windows 用户可前往 [Windows 内测版](https://github.com/ChaoJiTuoLuKING/codex-pulse-windows-app) 下载。Intel Mac 暂未支持。
+Windows 用户可前往 [Windows 版](https://github.com/ChaoJiTuoLuKING/codex-pulse-windows-app) 下载。Intel Mac 暂未支持。
